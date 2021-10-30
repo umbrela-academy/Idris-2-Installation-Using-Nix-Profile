@@ -54,7 +54,7 @@ Available commands:
 Note: this program is EXPERIMENTAL and subject to change.
 ```
 
-## Step 4: Install something
+## Step 4: Install Idris 2
 ```
 nix profile install github:idris-lang/Idris2 
 ```
